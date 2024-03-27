@@ -1,0 +1,501 @@
+Transaction_ID,Date,Amount,Category,Account_Type,Transaction_Type
+1,2023-03-17,270.77,Healthcare,Credit Card,Debit
+2,2023-06-30,272.71,Entertainment,Savings,Debit
+3,2023-10-09,992.51,Healthcare,Checking,Credit
+4,2023-05-09,132.22,Groceries,Savings,Debit
+5,2024-01-08,108.53,Entertainment,Savings,Credit
+6,2024-04-12,375.01,Rent,Savings,Debit
+7,2023-04-08,16.37,Rent,Savings,Debit
+8,2024-04-28,620.1,Groceries,Checking,Credit
+9,2023-12-26,345.26,Utilities,Checking,Credit
+10,2023-12-01,508.5,Transport,Credit Card,Debit
+11,2023-04-15,623.76,Utilities,Checking,Debit
+12,2024-04-02,118.6,Transport,Savings,Debit
+13,2023-10-13,652.98,Entertainment,Checking,Debit
+14,2023-08-26,521.18,Groceries,Credit Card,Debit
+15,2023-09-04,319.49,Rent,Credit Card,Debit
+16,2024-04-14,813.97,Transport,Savings,Debit
+17,2023-03-06,174.66,Groceries,Checking,Credit
+18,2023-10-02,293.95,Utilities,Checking,Debit
+19,2023-04-23,408.61,Utilities,Checking,Debit
+20,2023-09-17,26.43,Healthcare,Checking,Debit
+21,2023-10-15,721.42,Groceries,Credit Card,Debit
+22,2023-02-17,824.07,Rent,Checking,Credit
+23,2024-04-20,685.09,Utilities,Credit Card,Credit
+24,2023-09-18,306.92,Groceries,Savings,Credit
+25,2023-04-18,707.76,Rent,Credit Card,Credit
+26,2023-10-25,864.07,Transport,Savings,Credit
+27,2023-04-05,64.1,Rent,Checking,Credit
+28,2023-08-04,519.78,Utilities,Checking,Credit
+29,2023-06-14,497.66,Utilities,Checking,Debit
+30,2023-02-09,204.99,Healthcare,Savings,Debit
+31,2023-10-14,939.19,Entertainment,Credit Card,Debit
+32,2023-12-07,850.39,Rent,Checking,Credit
+33,2023-10-12,574.24,Groceries,Checking,Debit
+34,2023-08-17,812.09,Utilities,Credit Card,Credit
+35,2023-07-29,669.27,Groceries,Checking,Debit
+36,2023-03-08,962.14,Healthcare,Savings,Credit
+37,2023-09-20,133.17,Transport,Savings,Debit
+38,2023-06-27,224.01,Rent,Credit Card,Credit
+39,2023-03-26,83.12,Entertainment,Checking,Credit
+40,2024-01-23,240.5,Groceries,Savings,Debit
+41,2023-07-21,846.5,Healthcare,Credit Card,Debit
+42,2023-07-10,333.88,Rent,Credit Card,Debit
+43,2023-09-22,481.2,Entertainment,Savings,Debit
+44,2023-10-13,890.26,Utilities,Savings,Debit
+45,2024-03-09,715.28,Entertainment,Checking,Credit
+46,2023-05-07,24.07,Rent,Savings,Debit
+47,2023-03-24,617.39,Transport,Credit Card,Credit
+48,2024-03-13,479.88,Utilities,Credit Card,Debit
+49,2023-12-18,43.51,Healthcare,Credit Card,Credit
+50,2024-05-09,647.32,Healthcare,Checking,Credit
+51,2023-07-29,614.87,Entertainment,Credit Card,Debit
+52,2024-03-19,240.42,Healthcare,Credit Card,Debit
+53,2024-03-06,819.1,Groceries,Credit Card,Debit
+54,2023-02-28,154.38,Utilities,Credit Card,Debit
+55,2023-08-29,871.53,Rent,Savings,Debit
+56,2024-02-12,469.84,Entertainment,Checking,Credit
+57,2023-03-30,416.83,Rent,Credit Card,Credit
+58,2024-02-02,301.56,Entertainment,Savings,Debit
+59,2023-06-15,716.29,Rent,Credit Card,Credit
+60,2023-11-27,796.37,Entertainment,Savings,Credit
+61,2024-01-20,304.62,Entertainment,Savings,Credit
+62,2023-12-24,123.96,Utilities,Savings,Debit
+63,2024-02-14,593.05,Healthcare,Credit Card,Credit
+64,2023-08-20,614.8,Healthcare,Savings,Debit
+65,2024-01-14,146.97,Entertainment,Credit Card,Debit
+66,2024-04-13,117.72,Healthcare,Savings,Debit
+67,2024-02-06,795.44,Entertainment,Savings,Credit
+68,2024-03-20,736.44,Healthcare,Savings,Credit
+69,2024-03-11,736.84,Transport,Checking,Credit
+70,2023-01-13,65.13,Groceries,Savings,Debit
+71,2023-11-08,578.88,Groceries,Checking,Credit
+72,2023-04-15,994.57,Entertainment,Savings,Debit
+73,2023-05-15,200.74,Transport,Savings,Credit
+74,2023-09-20,875.14,Entertainment,Checking,Debit
+75,2023-01-23,581.33,Transport,Savings,Credit
+76,2024-03-03,928.32,Rent,Savings,Credit
+77,2023-10-01,212.44,Entertainment,Savings,Credit
+78,2024-02-17,555.39,Transport,Savings,Debit
+79,2023-10-05,336.41,Groceries,Savings,Debit
+80,2023-06-28,762.18,Groceries,Credit Card,Debit
+81,2023-01-08,951.1,Entertainment,Checking,Credit
+82,2024-02-01,72.2,Utilities,Savings,Debit
+83,2023-05-01,807.14,Rent,Credit Card,Debit
+84,2023-03-04,993.33,Transport,Savings,Debit
+85,2024-01-10,458.39,Transport,Savings,Debit
+86,2023-10-10,127.11,Rent,Savings,Debit
+87,2023-09-16,318.91,Utilities,Checking,Credit
+88,2023-10-23,681.14,Groceries,Credit Card,Debit
+89,2023-10-05,295.59,Healthcare,Checking,Credit
+90,2024-04-08,673.95,Utilities,Credit Card,Credit
+91,2023-06-25,507.34,Rent,Checking,Debit
+92,2024-01-24,982.59,Groceries,Checking,Debit
+93,2023-04-26,954.46,Entertainment,Savings,Debit
+94,2023-10-21,935.92,Entertainment,Credit Card,Credit
+95,2023-06-14,105.08,Utilities,Checking,Credit
+96,2023-11-13,44.7,Healthcare,Credit Card,Credit
+97,2023-07-08,958.29,Entertainment,Credit Card,Debit
+98,2024-05-08,141.45,Utilities,Credit Card,Credit
+99,2023-08-05,527.0,Transport,Savings,Credit
+100,2023-10-15,34.15,Groceries,Checking,Debit
+101,2023-07-07,49.03,Transport,Checking,Debit
+102,2023-09-13,721.01,Rent,Credit Card,Credit
+103,2023-09-06,571.55,Rent,Savings,Debit
+104,2024-02-06,147.16,Entertainment,Checking,Credit
+105,2023-03-04,710.51,Utilities,Checking,Credit
+106,2023-03-25,922.11,Healthcare,Credit Card,Debit
+107,2024-04-20,523.24,Entertainment,Savings,Credit
+108,2023-10-03,530.32,Healthcare,Credit Card,Credit
+109,2023-07-02,837.46,Rent,Savings,Credit
+110,2023-04-02,632.47,Entertainment,Savings,Credit
+111,2023-02-14,832.77,Rent,Savings,Debit
+112,2023-07-13,512.56,Utilities,Credit Card,Debit
+113,2023-11-16,355.42,Entertainment,Credit Card,Credit
+114,2023-08-21,783.78,Groceries,Savings,Debit
+115,2024-01-03,748.99,Entertainment,Checking,Credit
+116,2023-11-14,191.68,Groceries,Credit Card,Debit
+117,2023-10-31,507.05,Transport,Savings,Debit
+118,2023-05-17,801.99,Healthcare,Savings,Credit
+119,2024-03-18,27.17,Rent,Savings,Debit
+120,2024-03-11,170.0,Healthcare,Credit Card,Credit
+121,2023-06-05,896.76,Transport,Credit Card,Debit
+122,2023-04-15,922.54,Healthcare,Credit Card,Debit
+123,2023-03-15,945.36,Utilities,Credit Card,Credit
+124,2024-03-05,151.01,Entertainment,Credit Card,Credit
+125,2023-04-30,126.87,Healthcare,Savings,Debit
+126,2024-03-26,707.19,Transport,Checking,Credit
+127,2024-02-23,818.52,Healthcare,Credit Card,Credit
+128,2024-04-27,366.29,Groceries,Credit Card,Credit
+129,2024-05-08,750.81,Transport,Credit Card,Credit
+130,2023-04-02,602.01,Rent,Savings,Credit
+131,2023-04-12,77.04,Transport,Checking,Credit
+132,2023-08-22,455.23,Utilities,Credit Card,Credit
+133,2024-02-17,331.01,Healthcare,Credit Card,Debit
+134,2023-07-05,280.13,Groceries,Credit Card,Debit
+135,2023-11-07,96.2,Groceries,Credit Card,Credit
+136,2023-09-08,944.15,Groceries,Checking,Credit
+137,2024-02-27,568.07,Healthcare,Checking,Credit
+138,2023-02-06,443.3,Rent,Credit Card,Debit
+139,2023-02-27,348.52,Entertainment,Savings,Credit
+140,2023-05-24,485.07,Entertainment,Credit Card,Credit
+141,2024-04-06,398.51,Rent,Savings,Credit
+142,2023-10-30,945.67,Rent,Checking,Debit
+143,2023-06-24,751.43,Groceries,Credit Card,Credit
+144,2023-07-18,524.3,Healthcare,Credit Card,Credit
+145,2024-03-31,793.03,Transport,Checking,Credit
+146,2023-01-10,367.74,Entertainment,Savings,Debit
+147,2023-04-15,981.65,Entertainment,Credit Card,Debit
+148,2024-01-28,254.1,Entertainment,Checking,Credit
+149,2023-08-13,887.77,Entertainment,Savings,Debit
+150,2024-02-28,670.71,Utilities,Credit Card,Credit
+151,2024-03-29,424.4,Rent,Savings,Credit
+152,2024-04-13,833.16,Transport,Savings,Debit
+153,2024-04-29,227.58,Utilities,Savings,Debit
+154,2024-03-04,509.42,Rent,Credit Card,Credit
+155,2024-01-29,981.44,Transport,Savings,Credit
+156,2024-04-24,678.41,Entertainment,Savings,Debit
+157,2023-08-10,650.2,Rent,Checking,Debit
+158,2023-11-23,242.97,Transport,Credit Card,Debit
+159,2024-03-29,856.72,Rent,Checking,Credit
+160,2023-09-01,467.71,Healthcare,Checking,Credit
+161,2024-03-06,734.3,Entertainment,Credit Card,Credit
+162,2023-07-20,300.06,Rent,Savings,Debit
+163,2023-11-17,532.83,Rent,Savings,Credit
+164,2023-07-14,258.19,Utilities,Savings,Credit
+165,2023-06-13,854.07,Transport,Credit Card,Debit
+166,2023-06-15,159.12,Transport,Credit Card,Credit
+167,2023-11-01,698.45,Healthcare,Savings,Debit
+168,2023-12-08,744.6,Healthcare,Savings,Debit
+169,2023-06-23,694.24,Transport,Credit Card,Debit
+170,2024-03-17,187.69,Transport,Checking,Credit
+171,2024-02-17,135.78,Entertainment,Checking,Debit
+172,2023-04-06,938.83,Rent,Credit Card,Credit
+173,2024-03-12,491.17,Healthcare,Credit Card,Debit
+174,2023-07-26,623.6,Healthcare,Checking,Debit
+175,2023-08-01,461.32,Transport,Savings,Credit
+176,2023-04-25,460.9,Entertainment,Credit Card,Debit
+177,2023-05-21,157.14,Entertainment,Credit Card,Debit
+178,2023-04-24,426.46,Groceries,Credit Card,Credit
+179,2024-04-18,198.83,Utilities,Savings,Debit
+180,2023-04-12,843.18,Entertainment,Credit Card,Credit
+181,2023-12-09,100.16,Utilities,Checking,Credit
+182,2023-03-18,839.66,Transport,Credit Card,Credit
+183,2024-02-07,41.32,Entertainment,Credit Card,Credit
+184,2023-11-11,430.86,Healthcare,Checking,Debit
+185,2023-01-26,20.21,Rent,Credit Card,Debit
+186,2024-03-03,139.64,Groceries,Checking,Credit
+187,2024-03-25,708.65,Rent,Checking,Credit
+188,2023-05-16,179.71,Rent,Savings,Credit
+189,2024-03-01,548.84,Entertainment,Credit Card,Debit
+190,2024-04-19,957.49,Groceries,Credit Card,Credit
+191,2023-05-31,297.58,Rent,Checking,Debit
+192,2024-03-22,578.37,Rent,Checking,Credit
+193,2023-04-03,632.62,Entertainment,Credit Card,Debit
+194,2024-05-07,219.68,Transport,Savings,Credit
+195,2023-08-21,203.41,Utilities,Credit Card,Debit
+196,2023-04-25,250.26,Utilities,Savings,Debit
+197,2023-10-25,72.56,Groceries,Checking,Debit
+198,2024-02-01,703.75,Utilities,Checking,Debit
+199,2024-05-11,666.94,Utilities,Credit Card,Credit
+200,2024-01-25,372.87,Utilities,Savings,Debit
+201,2023-01-05,944.56,Rent,Credit Card,Credit
+202,2023-07-18,300.29,Groceries,Savings,Credit
+203,2023-11-05,542.02,Transport,Savings,Debit
+204,2024-02-20,540.56,Entertainment,Credit Card,Credit
+205,2024-03-06,568.82,Transport,Checking,Credit
+206,2024-01-24,487.2,Rent,Savings,Debit
+207,2024-03-29,881.32,Transport,Savings,Debit
+208,2023-03-04,861.46,Rent,Savings,Credit
+209,2023-08-18,128.72,Groceries,Savings,Debit
+210,2023-07-17,277.07,Utilities,Credit Card,Credit
+211,2023-04-25,546.34,Entertainment,Checking,Credit
+212,2024-04-02,148.76,Utilities,Credit Card,Credit
+213,2023-10-29,568.86,Utilities,Credit Card,Credit
+214,2023-09-27,170.41,Utilities,Savings,Debit
+215,2024-04-30,590.42,Rent,Savings,Credit
+216,2023-07-31,821.15,Healthcare,Checking,Debit
+217,2024-03-07,297.26,Healthcare,Savings,Credit
+218,2024-04-22,13.65,Healthcare,Checking,Debit
+219,2023-08-16,333.68,Healthcare,Checking,Credit
+220,2023-03-25,964.31,Healthcare,Checking,Debit
+221,2023-12-06,359.05,Transport,Credit Card,Debit
+222,2023-05-02,580.22,Utilities,Savings,Credit
+223,2023-08-04,389.59,Groceries,Credit Card,Credit
+224,2023-04-06,958.49,Healthcare,Savings,Credit
+225,2023-05-29,131.59,Entertainment,Savings,Debit
+226,2024-05-09,183.49,Rent,Checking,Credit
+227,2024-02-11,153.46,Healthcare,Savings,Debit
+228,2023-03-13,392.29,Rent,Credit Card,Credit
+229,2023-06-15,568.01,Groceries,Checking,Credit
+230,2023-03-21,295.53,Healthcare,Credit Card,Credit
+231,2023-02-15,403.35,Transport,Savings,Debit
+232,2023-03-10,351.85,Groceries,Credit Card,Debit
+233,2023-10-01,849.55,Utilities,Savings,Debit
+234,2023-11-02,322.57,Groceries,Credit Card,Credit
+235,2024-03-17,759.75,Healthcare,Credit Card,Credit
+236,2023-05-30,749.49,Healthcare,Checking,Debit
+237,2023-07-02,953.79,Entertainment,Checking,Debit
+238,2023-02-18,70.1,Utilities,Credit Card,Debit
+239,2024-04-08,954.78,Rent,Checking,Credit
+240,2023-11-08,54.13,Healthcare,Checking,Credit
+241,2023-04-09,443.72,Utilities,Savings,Credit
+242,2023-02-20,421.33,Entertainment,Checking,Credit
+243,2023-04-23,210.2,Utilities,Savings,Debit
+244,2024-04-20,945.16,Utilities,Credit Card,Credit
+245,2023-10-16,90.7,Rent,Credit Card,Debit
+246,2023-08-18,908.48,Healthcare,Checking,Credit
+247,2024-02-28,43.38,Entertainment,Credit Card,Debit
+248,2023-04-05,470.01,Groceries,Credit Card,Debit
+249,2024-04-16,394.73,Entertainment,Checking,Debit
+250,2023-07-24,537.11,Healthcare,Savings,Debit
+251,2023-12-12,226.53,Groceries,Checking,Debit
+252,2024-03-02,861.09,Healthcare,Credit Card,Credit
+253,2024-01-09,884.79,Utilities,Checking,Credit
+254,2024-01-22,275.03,Transport,Credit Card,Credit
+255,2023-07-14,310.11,Rent,Credit Card,Credit
+256,2023-07-09,252.63,Utilities,Checking,Credit
+257,2024-05-14,952.43,Transport,Checking,Credit
+258,2024-01-08,546.93,Utilities,Savings,Debit
+259,2023-06-12,368.34,Healthcare,Credit Card,Debit
+260,2024-01-14,336.59,Transport,Savings,Credit
+261,2024-03-01,833.97,Transport,Checking,Credit
+262,2023-07-21,345.61,Entertainment,Credit Card,Debit
+263,2023-06-01,701.29,Groceries,Credit Card,Credit
+264,2024-02-24,425.78,Transport,Credit Card,Credit
+265,2023-06-18,375.75,Groceries,Credit Card,Credit
+266,2023-09-28,930.23,Rent,Savings,Debit
+267,2023-06-07,648.89,Utilities,Savings,Credit
+268,2023-07-03,337.35,Healthcare,Savings,Debit
+269,2024-04-11,915.83,Entertainment,Savings,Credit
+270,2023-07-26,893.51,Transport,Checking,Credit
+271,2024-03-04,78.02,Rent,Credit Card,Credit
+272,2024-04-12,481.97,Entertainment,Credit Card,Debit
+273,2023-02-15,776.08,Utilities,Savings,Debit
+274,2023-09-06,748.75,Rent,Checking,Credit
+275,2023-11-25,754.32,Groceries,Credit Card,Credit
+276,2023-05-13,878.22,Transport,Savings,Credit
+277,2024-04-15,909.68,Groceries,Credit Card,Credit
+278,2023-04-15,320.74,Entertainment,Checking,Debit
+279,2024-04-15,207.6,Groceries,Savings,Credit
+280,2023-08-05,183.99,Groceries,Checking,Credit
+281,2023-07-17,921.52,Groceries,Savings,Credit
+282,2023-09-05,532.0,Entertainment,Checking,Debit
+283,2024-01-22,357.92,Healthcare,Checking,Debit
+284,2023-04-26,111.5,Groceries,Checking,Debit
+285,2023-08-10,386.54,Groceries,Savings,Credit
+286,2023-06-13,310.63,Healthcare,Savings,Debit
+287,2023-07-05,306.63,Transport,Checking,Credit
+288,2023-06-30,964.64,Utilities,Savings,Credit
+289,2024-02-28,197.53,Entertainment,Checking,Debit
+290,2024-04-24,529.22,Groceries,Checking,Debit
+291,2023-06-09,249.1,Transport,Savings,Credit
+292,2023-12-29,64.37,Groceries,Checking,Debit
+293,2023-12-03,629.66,Rent,Checking,Credit
+294,2023-11-29,952.23,Rent,Credit Card,Credit
+295,2024-02-03,505.76,Entertainment,Credit Card,Credit
+296,2023-06-16,218.05,Groceries,Checking,Debit
+297,2023-05-13,970.58,Transport,Credit Card,Credit
+298,2023-12-01,342.28,Utilities,Checking,Debit
+299,2023-12-17,706.31,Healthcare,Savings,Debit
+300,2023-09-15,626.7,Entertainment,Savings,Credit
+301,2023-11-13,175.26,Entertainment,Credit Card,Credit
+302,2024-05-14,215.48,Groceries,Checking,Credit
+303,2023-04-12,44.65,Rent,Credit Card,Credit
+304,2024-04-20,681.34,Utilities,Credit Card,Credit
+305,2023-01-02,880.8,Rent,Credit Card,Credit
+306,2023-10-28,624.07,Rent,Checking,Credit
+307,2023-10-05,514.7,Healthcare,Savings,Credit
+308,2023-02-05,660.26,Entertainment,Checking,Credit
+309,2024-05-04,102.78,Rent,Credit Card,Debit
+310,2023-01-12,139.84,Rent,Credit Card,Credit
+311,2023-06-30,468.92,Transport,Checking,Debit
+312,2023-04-20,260.8,Groceries,Credit Card,Debit
+313,2023-12-29,429.86,Utilities,Credit Card,Credit
+314,2023-01-01,947.79,Groceries,Credit Card,Debit
+315,2023-10-17,887.9,Healthcare,Credit Card,Credit
+316,2024-02-13,953.92,Entertainment,Savings,Credit
+317,2023-05-22,958.06,Rent,Credit Card,Credit
+318,2023-06-19,500.39,Transport,Checking,Credit
+319,2023-06-29,244.27,Healthcare,Credit Card,Debit
+320,2023-03-03,381.28,Healthcare,Checking,Credit
+321,2023-10-05,529.79,Healthcare,Savings,Debit
+322,2024-02-05,92.42,Groceries,Savings,Credit
+323,2024-04-12,54.41,Utilities,Credit Card,Debit
+324,2024-02-18,441.77,Rent,Checking,Credit
+325,2023-08-19,264.82,Rent,Savings,Credit
+326,2023-11-16,408.79,Entertainment,Checking,Credit
+327,2023-02-27,623.61,Healthcare,Savings,Debit
+328,2023-02-09,232.46,Utilities,Checking,Credit
+329,2023-11-07,517.95,Transport,Credit Card,Credit
+330,2023-10-30,795.61,Utilities,Savings,Credit
+331,2023-08-30,432.83,Utilities,Savings,Debit
+332,2024-05-09,229.92,Healthcare,Credit Card,Credit
+333,2023-10-29,493.06,Groceries,Checking,Debit
+334,2023-10-21,749.94,Transport,Savings,Credit
+335,2023-06-13,582.8,Groceries,Checking,Debit
+336,2023-09-08,847.06,Entertainment,Savings,Debit
+337,2023-03-23,159.21,Rent,Checking,Debit
+338,2023-09-26,902.75,Transport,Credit Card,Credit
+339,2023-06-24,543.59,Transport,Checking,Debit
+340,2024-02-09,777.12,Transport,Credit Card,Debit
+341,2023-07-19,843.49,Healthcare,Checking,Credit
+342,2023-08-26,851.24,Groceries,Savings,Debit
+343,2023-08-06,399.45,Healthcare,Checking,Credit
+344,2023-07-27,752.09,Entertainment,Checking,Credit
+345,2023-07-14,381.53,Entertainment,Credit Card,Credit
+346,2023-06-08,556.14,Rent,Checking,Credit
+347,2023-03-21,536.41,Utilities,Savings,Debit
+348,2023-08-15,482.32,Rent,Checking,Credit
+349,2023-12-12,542.48,Rent,Credit Card,Debit
+350,2023-09-03,510.56,Transport,Savings,Credit
+351,2024-02-26,798.11,Rent,Credit Card,Debit
+352,2023-11-13,919.81,Groceries,Savings,Credit
+353,2023-03-01,682.75,Rent,Checking,Debit
+354,2023-09-26,422.0,Transport,Credit Card,Debit
+355,2023-09-04,462.91,Utilities,Savings,Debit
+356,2024-01-30,578.24,Utilities,Checking,Credit
+357,2023-01-10,910.52,Entertainment,Checking,Credit
+358,2024-05-08,269.22,Groceries,Credit Card,Debit
+359,2024-01-23,146.1,Utilities,Credit Card,Credit
+360,2024-03-21,837.45,Healthcare,Checking,Debit
+361,2023-04-16,722.55,Entertainment,Savings,Debit
+362,2023-08-26,326.69,Groceries,Checking,Credit
+363,2023-03-14,780.22,Healthcare,Credit Card,Credit
+364,2023-03-02,138.76,Groceries,Checking,Credit
+365,2024-04-25,16.07,Transport,Checking,Debit
+366,2023-12-12,241.09,Rent,Savings,Debit
+367,2024-01-21,935.85,Utilities,Checking,Credit
+368,2023-10-08,527.53,Groceries,Savings,Debit
+369,2023-07-25,281.89,Groceries,Credit Card,Debit
+370,2023-10-05,295.25,Utilities,Checking,Debit
+371,2023-10-30,417.7,Transport,Checking,Debit
+372,2024-02-23,709.15,Utilities,Checking,Credit
+373,2023-11-05,852.94,Groceries,Checking,Debit
+374,2024-04-22,878.51,Utilities,Checking,Debit
+375,2023-09-14,891.58,Transport,Checking,Debit
+376,2023-01-05,938.46,Entertainment,Checking,Credit
+377,2024-01-24,760.82,Rent,Savings,Debit
+378,2023-08-15,437.0,Rent,Checking,Credit
+379,2023-01-01,309.89,Utilities,Checking,Credit
+380,2024-03-17,45.24,Healthcare,Savings,Credit
+381,2023-07-05,55.89,Rent,Savings,Debit
+382,2023-02-24,145.44,Groceries,Savings,Credit
+383,2023-11-02,273.71,Entertainment,Savings,Debit
+384,2023-09-10,179.21,Entertainment,Savings,Debit
+385,2023-06-07,205.81,Entertainment,Savings,Debit
+386,2023-04-15,217.13,Utilities,Savings,Credit
+387,2023-12-20,501.2,Transport,Credit Card,Credit
+388,2023-08-25,412.83,Entertainment,Credit Card,Credit
+389,2023-02-02,327.83,Rent,Checking,Debit
+390,2023-04-26,304.25,Groceries,Savings,Debit
+391,2023-07-01,429.49,Groceries,Credit Card,Debit
+392,2023-11-16,808.49,Healthcare,Checking,Credit
+393,2023-07-04,588.36,Rent,Savings,Credit
+394,2023-12-25,39.26,Healthcare,Savings,Debit
+395,2023-04-30,649.26,Healthcare,Savings,Credit
+396,2024-01-09,238.09,Healthcare,Checking,Debit
+397,2023-07-17,404.37,Groceries,Savings,Debit
+398,2023-01-31,155.11,Groceries,Credit Card,Debit
+399,2023-04-17,492.54,Transport,Credit Card,Debit
+400,2023-04-18,52.11,Healthcare,Credit Card,Credit
+401,2023-03-03,75.59,Rent,Checking,Credit
+402,2023-07-25,84.6,Entertainment,Savings,Debit
+403,2023-10-19,455.7,Entertainment,Checking,Debit
+404,2023-02-26,537.51,Rent,Credit Card,Credit
+405,2023-08-22,337.6,Utilities,Credit Card,Credit
+406,2023-06-26,872.3,Healthcare,Credit Card,Debit
+407,2024-02-02,927.87,Transport,Checking,Credit
+408,2024-02-22,778.15,Transport,Checking,Credit
+409,2023-08-07,419.82,Transport,Checking,Credit
+410,2023-05-13,46.56,Utilities,Checking,Credit
+411,2023-08-01,540.44,Utilities,Savings,Debit
+412,2024-04-17,578.28,Rent,Checking,Debit
+413,2024-01-11,996.08,Transport,Credit Card,Debit
+414,2023-06-12,260.39,Utilities,Credit Card,Debit
+415,2024-02-08,320.32,Rent,Savings,Debit
+416,2023-12-05,838.46,Groceries,Credit Card,Debit
+417,2023-10-14,567.86,Groceries,Savings,Credit
+418,2023-12-13,771.61,Healthcare,Savings,Credit
+419,2024-01-01,734.32,Groceries,Checking,Debit
+420,2023-03-16,330.99,Entertainment,Checking,Credit
+421,2024-03-28,97.47,Utilities,Credit Card,Credit
+422,2023-12-19,107.69,Utilities,Savings,Debit
+423,2023-09-07,552.31,Rent,Credit Card,Credit
+424,2023-08-05,765.57,Entertainment,Checking,Credit
+425,2024-02-14,171.6,Entertainment,Savings,Credit
+426,2023-07-04,527.15,Groceries,Checking,Credit
+427,2023-07-24,193.17,Healthcare,Credit Card,Debit
+428,2023-11-28,74.85,Groceries,Credit Card,Debit
+429,2023-04-01,420.77,Healthcare,Credit Card,Debit
+430,2023-12-23,633.78,Rent,Checking,Credit
+431,2023-08-23,814.05,Healthcare,Savings,Credit
+432,2023-06-20,240.95,Groceries,Checking,Debit
+433,2023-10-08,200.54,Entertainment,Credit Card,Debit
+434,2024-01-15,452.8,Entertainment,Checking,Credit
+435,2023-04-23,67.43,Rent,Savings,Credit
+436,2023-08-02,889.25,Transport,Credit Card,Debit
+437,2023-01-11,598.6,Healthcare,Credit Card,Debit
+438,2023-11-03,194.29,Healthcare,Checking,Credit
+439,2024-01-22,919.75,Rent,Checking,Credit
+440,2023-08-18,774.4,Healthcare,Savings,Debit
+441,2024-02-07,744.15,Groceries,Checking,Credit
+442,2023-11-30,321.85,Groceries,Credit Card,Debit
+443,2023-06-26,928.57,Entertainment,Credit Card,Credit
+444,2023-02-18,436.15,Entertainment,Savings,Credit
+445,2023-07-24,657.55,Rent,Credit Card,Credit
+446,2023-11-24,915.11,Groceries,Checking,Debit
+447,2023-01-28,425.3,Utilities,Checking,Credit
+448,2023-09-10,465.21,Transport,Checking,Credit
+449,2024-01-09,938.76,Transport,Checking,Credit
+450,2024-02-03,550.98,Utilities,Credit Card,Credit
+451,2024-03-22,650.81,Entertainment,Checking,Credit
+452,2023-09-27,988.04,Healthcare,Checking,Debit
+453,2023-01-14,482.91,Healthcare,Credit Card,Debit
+454,2023-12-14,539.85,Rent,Savings,Credit
+455,2024-02-03,589.82,Groceries,Credit Card,Credit
+456,2024-04-02,692.06,Healthcare,Credit Card,Debit
+457,2024-04-19,34.36,Rent,Checking,Debit
+458,2023-05-16,323.69,Entertainment,Checking,Credit
+459,2023-08-22,620.54,Utilities,Credit Card,Debit
+460,2023-03-10,130.34,Entertainment,Credit Card,Debit
+461,2023-03-07,201.95,Rent,Checking,Credit
+462,2024-03-03,119.46,Entertainment,Savings,Credit
+463,2023-11-07,149.65,Healthcare,Credit Card,Debit
+464,2023-06-05,83.8,Healthcare,Savings,Credit
+465,2023-11-29,647.16,Rent,Checking,Debit
+466,2023-11-03,199.78,Rent,Checking,Debit
+467,2023-09-10,639.72,Transport,Credit Card,Credit
+468,2023-02-25,514.65,Utilities,Credit Card,Credit
+469,2023-02-14,990.44,Entertainment,Credit Card,Debit
+470,2023-05-04,730.12,Transport,Savings,Debit
+471,2023-03-27,362.1,Rent,Savings,Debit
+472,2023-09-22,67.79,Rent,Credit Card,Debit
+473,2024-04-11,682.6,Transport,Checking,Debit
+474,2023-07-11,299.12,Entertainment,Savings,Credit
+475,2023-06-22,757.63,Healthcare,Credit Card,Credit
+476,2023-11-16,694.91,Utilities,Checking,Credit
+477,2023-10-11,362.72,Utilities,Checking,Debit
+478,2023-01-31,889.27,Rent,Savings,Debit
+479,2023-09-17,857.41,Healthcare,Savings,Credit
+480,2024-02-24,648.03,Healthcare,Checking,Credit
+481,2023-05-30,892.9,Groceries,Credit Card,Debit
+482,2023-12-10,625.72,Rent,Credit Card,Debit
+483,2024-03-27,696.96,Transport,Savings,Debit
+484,2023-06-01,969.57,Rent,Savings,Debit
+485,2023-10-07,363.34,Entertainment,Checking,Credit
+486,2023-11-08,941.07,Utilities,Checking,Debit
+487,2023-09-18,930.42,Transport,Credit Card,Credit
+488,2024-01-02,636.64,Groceries,Checking,Credit
+489,2023-10-28,411.26,Rent,Savings,Debit
+490,2023-05-26,571.94,Rent,Savings,Credit
+491,2023-07-14,129.39,Groceries,Savings,Credit
+492,2023-12-01,477.62,Transport,Credit Card,Debit
+493,2023-08-29,647.44,Rent,Savings,Credit
+494,2023-10-27,521.19,Healthcare,Checking,Credit
+495,2023-05-09,879.71,Groceries,Savings,Credit
+496,2023-01-01,393.74,Rent,Credit Card,Debit
+497,2024-04-02,53.7,Utilities,Credit Card,Debit
+498,2023-10-27,431.24,Transport,Credit Card,Credit
+499,2024-02-05,540.97,Healthcare,Checking,Debit
+500,2023-08-17,846.37,Transport,Credit Card,Debit
